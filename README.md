@@ -4,11 +4,11 @@
 
 Identifying the structure of proteins has been a longstanding challenge in biology, which has significantly hindered progress in various research areas (Senior et al., 2020). Traditionally, indirect methods such as X-ray crystallography and cryogenic electron microscopy (Millán et al., 2021; Berman et al., 2003; Burley et al., 2019) have been employed to determine protein structures. However, these methods are often time-consuming, expensive, and sometimes lack the required accuracy (Kuhlman & Bradley, 2019). Over the last few decades, the rise of data science and machine learning has provided new tools to address biological challenges, culminating in the development of transformative tools like AlphaFold (Senior et al., 2020; Jumper et al., 2021).
 
-##What is AlphaFold?
+## Generality on AlphaFold
 
 AlphaFold is an artificial intelligence system developed by DeepMind (Jumper et al., 2021). It predicts the 3D structure of a protein with high accuracy, given its amino acid sequence. Currently, more than 200 million protein structures have been predicted by AlphaFold, significantly expanding the known protein database (Varadi et al., 2022). Despite its high accuracy, it is important to note that AlphaFold's predictions are not experimental data; they still require further evaluation and validation (Mariani et al., 2021).
 
-##How does AlphaFold work?
+## AlphaFold : deep learning based tools
 
 AlphaFold takes the amino acid sequence of a protein as input and outputs its predicted structure. This system uses deep learning, specifically neural networks, to predict protein folding and structure (Senior et al., 2020; Jumper et al., 2021). It was trained on a large dataset of known protein structures from the Protein Data Bank (PDB). By learning patterns from this data, the system can deduce the structure of new proteins (Senior et al., 2020). A collaboration between DeepMind and EMBL enabled the testing of AlphaFold on datasets from various organisms, including humans, mice, and \*Saccharomyces\* (Tunyasuvunakool et al., 2021).
 
@@ -20,7 +20,7 @@ The strengths of AlphaFold include:
 
 \- AlphaFold incorporates evolutionary relationships and physical constraints, such as interactions between different parts of the protein sequence (Senior et al., 2020).
 
-\##Evaluation and use of AlphaFold
+## Evaluation and use of AlphaFold
 
 As with any AI system, the predictions made by AlphaFold require validation. This is done using various metrics like the predicted local distance difference test (pLDDT) for each residue in the protein structure, which ranges from 0 to 100, with higher scores indicating greater confidence in the predicted positions (Jumper et al., 2021). Additionally, the predicted aligned error (PAE) measures the expected positional error in the alignment of any two residues in the predicted structure (Mariani et al., 2021).
 
@@ -30,7 +30,7 @@ Ultimately, AlphaFold showcases the potential of deep learning to drive scientif
 
 \---
 
-\### References
+## References
 
 1- Berman, H. M., Westbrook, J., Feng, Z., Gilliland, G., Bhat, T. N., Weissig, H., ... & Bourne, P. E. (2003). The Protein Data Bank. \*Nucleic Acids Research\*, 28(1), 235-242.
 
