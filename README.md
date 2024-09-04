@@ -1,4 +1,4 @@
-# Deciphering the Challenge of Protein Structure Using machine learning 
+# Deciphering the challenge of protein structure using machine learning 
 
    Author (@Slack): Stéphie Raveloson (@StephieRav) 
 
