@@ -1,4 +1,4 @@
-# Deciphering the challenge of protein structure using machine learning 
+# AlphaFold : Deciphering the challenge of protein structure using machine learning 
 
    Author (@Slack): Stéphie Raveloson (@StephieRav) 
 
