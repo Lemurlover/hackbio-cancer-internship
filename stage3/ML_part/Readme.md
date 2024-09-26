@@ -5,7 +5,7 @@ The goal of the machine learning project is to predict the sample type of the no
 
 # Description of dataset<a id="h.hprh8abzw9td"></a>
 
-LUAD (Lung AdenoCarcinoma) normalized dataset   is used, which consists of the gene expression of each gene in samples and the metadata of 20 primary tumor samples and 20 solid tissue samples. \[[ Link to dataset](https://github.com/Lemurlover/hackbio-cancer-internship/tree/master/data)]
+LUAD (Lung AdenoCarcinoma) normalized dataset   is used, which consists of the gene expression of each gene in samples and the metadata of 20 primary tumor samples and 20 solid tissue samples. \[[ Link to data](https://github.com/Lemurlover/hackbio-cancer-internship/tree/master/data)]
 
 
 # Method<a id="h.3fuk06iabf47"></a>
@@ -13,7 +13,7 @@ Depending on the language preferences, the script can be found on the folder of 
 
 \[ [ Link to the R script](https://github.com/Lemurlover/hackbio-cancer-internship/blob/main/stage3/ML_part/script/stage3_ML.R)]
 
-\[ [ Link to the R script](https://github.com/Lemurlover/hackbio-cancer-internship/blob/main/stage3/ML_part/script/stage3_FS_ML.ipynb)]
+\[ [ Link to the Python script](https://github.com/Lemurlover/hackbio-cancer-internship/blob/main/stage3/ML_part/script/stage3_FS_ML.ipynb)]
 
 ## Steps<a id="h.ubsgtfhtia9g"></a>
 
