@@ -11,8 +11,9 @@ LUAD (Lung AdenoCarcinoma) normalized dataset   is used, which consists of the 
 # Method<a id="h.3fuk06iabf47"></a>
 Depending on the language preferences, the script can be found on the folder of script
 
-\[ [ Link to the R script](https://github.com/Lemurlover/hackbio-cancer-internship/blob/main/stage3/ML_part/script/stage3_ML.R)
+\[ [ Link to the R script](https://github.com/Lemurlover/hackbio-cancer-internship/blob/main/stage3/ML_part/script/stage3_ML.R)]
 
+\[ [ Link to the R script](https://github.com/Lemurlover/hackbio-cancer-internship/blob/main/stage3/ML_part/script/stage3_FS_ML.ipynb)]
 
 ## Steps<a id="h.ubsgtfhtia9g"></a>
 
