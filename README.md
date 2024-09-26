@@ -1,6 +1,7 @@
 # Hello,
+
 This is a repository dedicated to my HackBio Cancer Internship.
-All of my assignments are gathered here.
+All of my assignments for each stage are gathered here.
 
 [ Stage 0](https://github.com/Lemurlover/hackbio-cancer-internship/tree/main/stage0)
 
