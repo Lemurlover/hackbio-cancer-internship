@@ -9,23 +9,9 @@ LUAD (Lung AdenoCarcinoma) normalized dataset   is used, which consists of the 
 
 
 # Method<a id="h.3fuk06iabf47"></a>
+Depending on the language preferences, the script can be found on the folder of script
 
-## Programming language used: <a id="h.j9clkxi28jq5"></a>
-
-Python were used to perform this analysis.
-
-
-## Libraries: <a id="h.s7mrhcwppe7k"></a>
-
- The following Python libraries were imported:  
-
-\- \*\*pandas\*\* and \*\*numpy\*\* for data manipulation,  
-
-\- \*\*train\_test\_split\*\* for splitting the data randomly,  
-
-\- \*\*GridSearchCV\*\*, \*\*RandomForestClassifier\*\*, and \*\*RFE\*\* for feature selection and model fitting using Random Forest,  
-
-\- \*\*accuracy\_score\*\*, \*\*classification\_report\*\*, and \*\*confusion\_matrix\*\* for evaluating the performance of the trained model.
+\[ [ Link to the R script](https://github.com/Lemurlover/hackbio-cancer-internship/blob/main/stage3/ML_part/script/stage3_ML.R)
 
 
 ## Steps<a id="h.ubsgtfhtia9g"></a>
