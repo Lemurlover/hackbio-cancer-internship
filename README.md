@@ -9,6 +9,10 @@ All of my assignments for each stage are gathered here.
 
 [ Stage 2](https://github.com/Lemurlover/hackbio-cancer-internship/tree/main/stage2)
 
-[ Stage 3](https://github.com/Lemurlover/hackbio-cancer-internship/tree/main/stage3)
+[ Stage 3](https://github.com/Lemurlover/hackbio-cancer-internship/tree/main/Stage_3)
 
- 
+[ My part of work on stage 3 ](https://github.com/Lemurlover/hackbio-cancer-internship/tree/main/stage3)
+
+
+
+
